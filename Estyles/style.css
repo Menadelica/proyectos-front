@@ -1,0 +1,16 @@
+.fondo{
+    background-image: url("./img/foto1.webp");
+    /* background-position: center; */
+    padding: 25%;
+    background-size: cover ;
+    background-attachment: fixed;
+
+}
+.menu{
+    background-color: rgb(24, 22, 22);
+}
+.gato{
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10%;
+}

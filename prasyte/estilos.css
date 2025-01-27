@@ -1,0 +1,23 @@
+.fondo{
+    background-image: url("./img/migui3.jpg");
+    /* para ubicar la imagen en l aposicion deseada. arriba-centro */
+    background-position: top center;
+    /* para que ocupe toda la pagina */
+    background-size: cover;
+    /* para aumentra o disminuir la imagen  */
+    padding: 25%;
+/* para que la imagen se quede quieta */
+    background-attachment: fixed; 
+
+}
+
+.menu{
+    background-color: rgb(24, 23, 16);
+}
+
+.fuente {
+    font-family: "", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
