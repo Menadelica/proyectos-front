@@ -1,0 +1,22 @@
+.fondo{
+    background-image: url(./img/fondo5.jpg);
+    /* posicion fondo, arriba y al centro */
+    background-position: top center;
+ 
+    background-attachment: fixed;
+     /* fondo quieto, inmovilizado */
+    background-size: cover;
+    /*margen interna al 25%*/
+    padding: 25%;
+
+}
+
+.menu{
+    background-color:  #17661d;
+}
+
+.fuente {
+  font-family: "Funnel Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
